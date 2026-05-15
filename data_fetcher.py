@@ -19,16 +19,16 @@ logger = logging.getLogger(__name__)
 LARGE_CAP_FUNDS = {
     "Mirae Asset Large Cap":        (118989, 0.54),
     "Axis Bluechip":                (120503, 0.55),
-    "HDFC Top 100":                 (119533, 1.61),
     "ICICI Pru Bluechip":           (120586, 1.26),
     "SBI Bluechip":                 (119598, 0.83),
-    "Nippon India Large Cap":       (118701, 1.67),
     "Kotak Bluechip":               (120594, 0.58),
-    "UTI Mastershare":              (552, 1.38),
-    "Franklin India Bluechip":      (103504, 1.74),
     "Canara Robeco Bluechip":       (120599, 0.44),
-    "DSP Top 100 Equity":           (119274, 1.37),
     "Invesco India Largecap":       (120828, 0.63),
+    "Bandhan Large Cap":          (118479, 0.59),
+    "Edelweiss Large Cap":         (118617, 0.53),
+    "Nippon India Large Cap":      (118632, 1.67),
+    "HDFC Large Cap":             (119018, 1.61),
+    "Tata Large Cap":             (119160, 0.87),
 }
 
 NIFTY_TICKER   = "^NSEI"
