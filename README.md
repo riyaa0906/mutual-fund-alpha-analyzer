@@ -1,7 +1,7 @@
 # Mutual Fund Alpha Analyzer
 
 Analyzes whether Indian large-cap mutual fund managers genuinely create alpha
-after accounting for expense ratios — or simply ride market momentum.
+after accounting for expense ratios, or simply ride market momentum.
 
 ## Problem
 Over 1,000 Indian mutual funds claim to beat the market. Most retail investors
@@ -38,5 +38,5 @@ python main.py
 ```
 
 ## Output
-- `alpha_results.csv` — all funds ranked by alpha with full metrics
-- `alpha_dashboard.png` — 6-panel visualization dashboard
+- `alpha_results.csv` - all funds ranked by alpha with full metrics
+- `alpha_dashboard.png` - 6-panel visualization dashboard
